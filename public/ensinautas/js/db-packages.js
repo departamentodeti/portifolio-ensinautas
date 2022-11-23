@@ -55,7 +55,7 @@ for(i=0; i<8; i++){
     BoxPackages.innerHTML += ` 
    
     <div class="card col-md-5 mx-2 mt-3" >
-      <img src="/assets/packages/${Package[i].image}" class=" card-img img-fluid" alt="...">
+      <img src="./assets/packages/${Package[i].image}" class=" card-img img-fluid" alt="...">
    
    </div>
     

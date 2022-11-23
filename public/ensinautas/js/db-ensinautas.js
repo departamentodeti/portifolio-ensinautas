@@ -94,7 +94,7 @@ for(i=0; i<3; i++){
      ${MainServices[i].description}
      </p>
      <div class="d-flex justify-content-center text-uppercase">
-       <a id="text" class=" text-white btn btn-light" href="/pages/packages.html">ver pacotes</a>
+       <a id="text" class=" text-white btn btn-light" href="packages.html">ver pacotes</a>
      </div>
    </div>
  </div>

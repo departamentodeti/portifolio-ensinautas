@@ -45,7 +45,7 @@ for(i=0; i<5; i++){
    
    <div id="box_worker" class="mt-2 mb-2 mx-2" >
    <div>
-         <img src=".../assets/workers/${Members[i].image}" class="img-fluid" alt="Membro da equipe ">
+         <img src="assets/workers/${Members[i].image}" class="img-fluid" alt="Membro da equipe ">
          </div>
          <div class=" text-center info-card mt-2">
          <h5>${ Members[i].name }</h5>

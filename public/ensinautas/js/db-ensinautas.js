@@ -39,7 +39,7 @@ for(let i=0; i<3; i++)
 
    BoxDestaque.innerHTML += `
    <div class="card col-md-3 mx-1  mt-2" style="width: 22.5rem;">
-      <img src="public/ensinautas/img_destaques/${FotosDestaque[i].url}" class="img-fluid card-img-top" alt="...">
+      <img src="/public/ensinautas/img_destaques/${FotosDestaque[i].url}" class="img-fluid card-img-top" alt="...">
       <div class="card-body">
       <h5 class="card-title text-center fw-bold">${FotosDestaque[i].description}</h5>
       <p class="card-text text-justify">

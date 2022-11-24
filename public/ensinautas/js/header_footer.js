@@ -1,7 +1,7 @@
 now = new Date();
 let GetYear = now.getFullYear();
 let ShowYear =  "";
-ShowYear.innerHTML = `<span>Copyright© ${GetYear} - A Todos os direitos reservados</span>`;
+ShowYear.innerHTML = `<span>Copyright© ${GetYear} - Todos os direitos reservados</span>`;
 //Instanciando um novo bjecto para pegara a Data atual
 
 let header = document.getElementById("inicio");

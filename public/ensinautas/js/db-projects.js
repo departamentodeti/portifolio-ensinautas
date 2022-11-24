@@ -38,7 +38,7 @@ for(i=0; i<3; i++){
     <div class="card-body">
       <h4 class="card-title text-center">${ProjetInformation[i].project}</h4>
     </div>
-    <img width="50" src="./assets/projects/${ProjetInformation[i].image}" class="card-img-top" alt="Imagem iltustrativa sobre desenvolvimento de website de Consultoria">
+    <img width="50" src="./assets/projects/${ProjetInformation[i].image}" class="card-img-top" alt="">
     </div>
     
      
